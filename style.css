@@ -32,6 +32,7 @@ body {
   background-color: #121214;
   background-image: var(--bg);
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 body * {
